@@ -1,0 +1,3 @@
+url:
+  productServiceURL: https://product-test-service/ProductService/productServiceStatus
+environment: DEV
